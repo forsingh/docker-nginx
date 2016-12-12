@@ -1,1 +1,1 @@
-FROM httpdx
+FROM httpd
